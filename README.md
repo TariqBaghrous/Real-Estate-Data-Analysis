@@ -1,1 +1,3 @@
 # Real-Estate-Data-Analysis
+
+This essay examines the challenges of gentrification and houding affordability in Milan, where urban investment has driven up property values and rents, often displacing lower-income residents. By analyzing indicators such as the Total Real Estate Accessibility Index, Housing Affordability Index, and Rent Affordability Ratio, the study reveals a significant increase in housing costs, especially in rental markets. The findings highlight a growing economic divide, stressing the need for policies that balance development with affordable housing to ensure equitable urban growth.
